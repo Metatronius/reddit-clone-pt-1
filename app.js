@@ -20,7 +20,7 @@
                         title: "7-1 ;)",
                         body: '7-1 lamo',
                         author: 'germanbro',
-                        imageUrl: 'https://images.pexels.com/photos/169599/pexels-photo-169599.jpeg?w=1260&h=750&auto=compress&cs=tinysrgb',
+                        imageUrl: 'http://i1.nyt.com/images/2014/07/09/sports/08bg7/08bg7-master675.jpg',
                         voteRating: 71,
                         date: Date.now()
                     }]
